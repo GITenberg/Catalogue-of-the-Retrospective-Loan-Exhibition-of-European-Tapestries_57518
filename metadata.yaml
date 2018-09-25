@@ -1,16 +1,21 @@
 _repo: Catalogue-of-the-Retrospective-Loan-Exhibition-of-European-Tapestries_57518
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Laurvik, J. Nilsen
     gutenberg_agent_id: '49440'
     url: http://www.gutenberg.org/2009/agents/49440
+covers:
+- cover_type: archival
+  image_path: 57518-h/images/coverpage.jpg
 creator:
   author:
     agent_name: Ackerman, Phyllis
     gutenberg_agent_id: '49439'
     url: http://www.gutenberg.org/2009/agents/49439
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57518#Catalogue-of-the-Retrospective-Loan-Exhibition-of-European-Tapestries
 gutenberg_issued: '2018-07-16'
 gutenberg_type: Text
 identifiers:
